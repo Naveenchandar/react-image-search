@@ -6,7 +6,7 @@ import SearchBar from './Components/SearchBar';
 
 class App extends Component {
   constructor(props) {
-    super(props)
+    super(props) 
     this.state = {
       gallery: [],
       currentQuery: '',
